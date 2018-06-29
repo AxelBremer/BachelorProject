@@ -1,0 +1,92 @@
+<Narrative>
+    <IntroText> Geographically, the Near East extends from the western coasts
+                of Turkey and the Levant to the eastern border of Iran.
+                All its different civilizations, which span millennia, are
+                culturally and historically referred to as 'Near Eastern'.
+
+                Around 8000 B.C., in many places across the Near East, people
+                who had up to then lived as hunter-gatherers began to establish
+                fixed settlements and to practise agriculture and stock
+                breeding. From about 6200 B.C. on, pottery started to be
+                manufactured, and from roughly 5000 B.C. metal objects.
+                The population increased, the settlements grew, and in many
+                places artificial irrigation became necessary. All this
+                ultimately required social organization, and in about 3400 B.C.
+                some settlements emerged as city-states.</IntroText>
+    <Period>8000 b.c. - 500 b.c.</Period>
+    <Objects>
+        <Object id="0">
+            <Name>Tablet with enveloppe</Name>
+            <FileName>APM06430</FileName>
+            <Summary>rectangular envelope with cuneiform script and stamp print</Summary>
+            <Text>  Cuneiform writing appeared around 3300 B.C. in Mesopotamia and
+                    continued in use until the beginning of our era. The name
+                    refers to the wedge-shaped markings of the characters
+                    (cuneus is Latin for 'wedge'). These were pressed into the
+                    clay with a reed stylus which made a triangular imprint;
+                    their long, tapering form was made by moving the stylus as
+                    if to draw a line. Cuneiform was adopted over the entire
+                    Near East to write very dissimilar languages. The script
+                    found acceptance for administration and contracts as well
+                    as for religious and literary writings. It was deciphered
+                    in the nineteenth century thanks to the efforts of Georg
+                    Grotefend and Henry Rawlinson.</Text>
+            <Links>
+                <Link>
+                    <ObjectId>1</ObjectId>
+                    <ObjectName>Cylinder seal</ObjectName>
+                    <LinkType>Marks of this type of seal can be found on the tablet.</LinkType>
+                </Link>
+            </Links>
+        </Object>
+        <Object id="1">
+            <Name>Cylinder seal</Name>
+            <FileName>APM03215</FileName>
+            <Summary>   old-Babylonian seal cylinder; left Gilgamesh, right Engidu,
+                        in conflict with lion and bull; inscription: Lu-Schak,
+                        the writer, son of Bil-Sag</Summary>
+            <Text>  From the sixth millennium on, seals were used to 'sign' a
+                    statement. About 3400 B.C. in Mesopotamia the stamp seal
+                    was replaced with the cylinder seal. It has the shape of a
+                    cylindrical bead with an axial hole, and could be worn
+                    suspended from a cord. An image was cut into the outer
+                    surface, and when it was rolled over a moist clay surface
+                    the image appeared in relief in the clay. Cylinder seals
+                    were manufactured in all kinds of material ranging from
+                    semi-precious stones to glass paste.</Text>
+            <Links>
+                <Link>
+                    <ObjectId>0</ObjectId>
+                    <ObjectName>Tablet With Enveloppe</ObjectName>
+                    <LinkType>This tablet was found in the same region.</LinkType>
+                </Link>
+                <Link>
+                    <ObjectId>2</ObjectId>
+                    <ObjectName>Axe with Pins</ObjectName>
+                    <LinkType>This Axe was used by the same subculture.</LinkType>
+                </Link>
+            </Links>
+        </Object>
+        <Object id="2">
+            <Name>Axe with Pins</Name>
+            <FileName>APM12851</FileName>
+            <Summary>   axe; blade at stem narrow and straight with 2 ribs,
+                        then flared at the bottom to 1/4 circle;</Summary>
+            <Text>  In the territory of present Iran, Elam was dominant for most
+                    of the fourth millennium. About 2000 B.C. Indo-European
+                    tribes lived in northeastern Iran. The extent of their
+                    settlements can be traced by the geographical dispersion of
+                    their characteristic polished pottery. By roughly 1300 B.C.
+                    they reached Amlash (APM09176), whereas in Luristan,
+                    renowned for its bronze objects, the earliest polished
+                    pottery is found not until the eighth century. </Text>
+            <Links>
+                <Link>
+                    <ObjectId>1</ObjectId>
+                    <ObjectName>Cylinder Seal</ObjectName>
+                    <LinkType>This Seal was used by the same subculture.</LinkType>
+                </Link>
+            </Links>
+        </Object>
+    </Objects>
+</Narrative>
